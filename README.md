@@ -37,6 +37,6 @@ The simulation advances in discrete timesteps (each representing **3 seconds** o
 
 ### Running the Simulation
 ```bash
-git clone https://github.com/kamohelo67/traffic-flow-simulation.git(https://github.com/kamohelo67/traffic-flow-simulation.git)
+git clone [https://github.com/kamohelo67/traffic-flow-simulation.git](https://github.com/kamohelo67/traffic-flow-simulation.git)
 cd traffic-flow-simulation
 python simulation.py
